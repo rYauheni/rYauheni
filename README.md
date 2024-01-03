@@ -17,12 +17,13 @@ Here are some ideas to get you started:
 Hi, 👋 I'm Yauheni
 ========================
 
-Python Back-End Developer
--------------------------
+## Python Back-End Developer
 
-#### Minsk, Belarus
+### Minsk, Belarus
 
-### From Advocate to Developer: A Restart Story
+---
+
+## From Advocate to Developer: A Restart Story
 
 I hold a higher legal education and successfully practiced in the field of law from 2016 to 2022.
 In 2022, I made the decision to switch careers, embarking on self-study of Python under the guidance of an
