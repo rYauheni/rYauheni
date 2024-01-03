@@ -86,7 +86,7 @@ My experience also encompasses completing freelance projects in Python.
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="64" height="64" alt="Docker" /></a>
 </p>
 <b>Certificates:</b>
-<a href="https://stepik.org/cert/2026284?lang=en">HTML&CSS</a>
+<a href="https://stepik.org/cert/2026284?lang=en">Docker</a>
 <p><br></p>
 <p align="left">
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" width="154" height="64" alt="git"/></a>
