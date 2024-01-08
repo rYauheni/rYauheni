@@ -29,7 +29,7 @@ I hold a higher legal education and successfully practiced in the field of law f
 In 2022, I made the decision to switch careers, embarking on self-study of Python under the guidance of an
 experienced developer-mentor, utilizing online courses and literature.
 
-My experience also encompasses completing freelance projects in Python.
+My experience encompasses completing freelance projects in Python.
 
 
 [//]: # (От Адвоката к Разработчику: История Перезапуска)
@@ -84,6 +84,8 @@ My experience also encompasses completing freelance projects in Python.
 <p><br></p>
 <p align="left">
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="64" height="64" alt="Docker" /></a>
+<a href="https://nginx.org" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354115/nginx.svg" width="64" height="64" alt="Nginx" /></a>
+<a href="https://gunicorn.org" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353846/gunicorn.svg" width="64" height="64" alt="Gunicorn" /></a>
 </p>
 <b>Certificates:</b>
 <a href="https://stepik.org/cert/2026284?lang=en">Docker</a>
