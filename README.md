@@ -68,6 +68,11 @@ My experience encompasses completing freelance projects in Python.
 
 <p><br></p>
 <p align="left">
+<a href="https://core.telegram.org" target="_blank" rel="noreferrer"><img src="https://staging.svgrepo.com/show/452115/telegram.svg" width="64" height="64" alt="TelegramAPI" /></a>
+</p>
+
+<p><br></p>
+<p align="left">
 <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="64" height="64" alt="SQL" /></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-512/free-postgresql-11-1175122.png?f=webp&w=256" width="64" height="64" alt="PostgreSQL" /></a>
 <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/application-x-sqlite-icon-1490x2048-eeq74tag.png" width="64" height="64" alt="SQLite" /></a>
