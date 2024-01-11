@@ -111,9 +111,9 @@ My experience encompasses completing freelance projects in Python.
 
 ## Languages
 
-- #### english: B2
-- #### russian: native
-- #### belarusian: native
+- #### English: B2
+- #### Russian: native
+- #### Belarusian: native
 
 ## Profile
 
