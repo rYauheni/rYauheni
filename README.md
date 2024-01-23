@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Hi, 👋 I'm Yauheni
 ========================
 
-## Python Back-End Developer
+## Python Backend Developer
 
 ### Minsk, Belarus
 
