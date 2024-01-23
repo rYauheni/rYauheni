@@ -121,3 +121,8 @@ My experience encompasses completing freelance projects in Python.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rYauheni&theme=vue-dark)
 
 ## Links
+
+<a href="https://t.me/yauheni_r" target="_blank" rel="noreferrer"><img src="https://staging.svgrepo.com/show/452115/telegram.svg" width="64" height="64" alt="Telegram" /></a>
+<a href="https://linkedin.com/in/ryauheni" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="64" height="64" alt="LinkedIn" /></a>
+<a href="mailto:ra.yauheni@gmail.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" width="64" height="64" alt="GMail" /></a>
+
