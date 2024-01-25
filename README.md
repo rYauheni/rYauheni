@@ -61,7 +61,6 @@ My experience encompasses completing freelance projects in Python.
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="64" height="64" alt="Docker" /></a>
 <a href="https://nginx.org" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354115/nginx.svg" width="64" height="64" alt="Nginx" /></a>
 <a href="https://gunicorn.org" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353846/gunicorn.svg" width="64" height="64" alt="Gunicorn" /></a>
-<a href="https://stepik.org/cert/2026284?lang=en">Docker</a>
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" width="154" height="64" alt="git"/></a>
 <a href="https://www.github.com/rYauheni" target="_blank" rel="noreferrer"><img src="https://logolook.net/wp-content/uploads/2022/12/GitHub-Logo.svg" width="" height="64" alt="git"/></a>
 
