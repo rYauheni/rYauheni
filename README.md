@@ -50,55 +50,20 @@ My experience encompasses completing freelance projects in Python.
 
 ## Skills
 
-<p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="64" height="64" alt="Python" /></a>
-</p>
-<b>Certificates:</b>
-<a href="https://stepik.org/cert/1662735?lang=en">Python 1</a>, 
-<a href="https://stepik.org/cert/2130279?lang=en">Python 2</a>, 
-<a href="https://stepik.org/cert/1678975?lang=en">OOP Python</a>
-
-
-<p><br></p>
-<p align="left">
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="64" height="64" alt="Django" /></a>
-</p>
-<b>Certificates:</b>
-<a href="https://stepik.org/cert/1897013?lang=en">Django</a>
-
-<p><br></p>
-<p align="left">
 <a href="https://core.telegram.org" target="_blank" rel="noreferrer"><img src="https://staging.svgrepo.com/show/452115/telegram.svg" width="64" height="64" alt="TelegramAPI" /></a>
-</p>
-
-<p><br></p>
-<p align="left">
 <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="64" height="64" alt="SQL" /></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-512/free-postgresql-11-1175122.png?f=webp&w=256" width="64" height="64" alt="PostgreSQL" /></a>
 <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/application-x-sqlite-icon-1490x2048-eeq74tag.png" width="64" height="64" alt="SQLite" /></a>
-</p>
-
-<p><br></p>
-<p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="64" height="64" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="64" height="64" alt="CSS3" /></a>
-</p>
-<b>Certificates:</b>
-<a href="https://stepik.org/cert/1826752?lang=en">HTML&CSS</a>
-
-<p><br></p>
-<p align="left">
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="64" height="64" alt="Docker" /></a>
 <a href="https://nginx.org" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354115/nginx.svg" width="64" height="64" alt="Nginx" /></a>
 <a href="https://gunicorn.org" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353846/gunicorn.svg" width="64" height="64" alt="Gunicorn" /></a>
-</p>
-<b>Certificates:</b>
 <a href="https://stepik.org/cert/2026284?lang=en">Docker</a>
-<p><br></p>
-<p align="left">
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" width="154" height="64" alt="git"/></a>
 <a href="https://www.github.com/rYauheni" target="_blank" rel="noreferrer"><img src="https://logolook.net/wp-content/uploads/2022/12/GitHub-Logo.svg" width="" height="64" alt="git"/></a>
-</p>
 
 ## Projects
 
